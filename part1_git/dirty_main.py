@@ -1,4 +1,4 @@
-from applications import calculate_salary, get_employees
+from applications import *
 
 
 if __name__=='__main__':
